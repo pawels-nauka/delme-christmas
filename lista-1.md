@@ -11,7 +11,8 @@ Wpisz co kupić przed świętami. Pomiń prezenty.
 ## Mięso
 - schab
 - drób
-
+- wołowina
+- baranina
 
 ## Pieczywo
 
