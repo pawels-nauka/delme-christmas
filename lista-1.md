@@ -13,6 +13,8 @@ Wpisz co kupić przed świętami. Pomiń prezenty.
 - drób
 - wołowina
 - baranina
+- cielęcina
+- jagnięcina
 
 ## Pieczywo
 
