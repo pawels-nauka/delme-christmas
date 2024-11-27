@@ -9,6 +9,8 @@ Wpisz co kupić przed świętami. Pomiń prezenty.
 ## Mięso
 - schab
 - drób
+  -  indyk
+  -  kurczak
 - wołowina
 - baranina
 - cielęcina
