@@ -19,7 +19,8 @@ Wpisz co kupić przed świętami. Pomiń prezenty.
 - jagnięcina
 
 ## Pieczywo
-
+- graham
+- piernik
 
 
 ## Sery i nabiał 
