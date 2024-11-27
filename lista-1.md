@@ -21,7 +21,8 @@ Wpisz co kupić przed świętami. Pomiń prezenty.
 ## Pieczywo
 - graham
 - piernik
-
+- pumpernikiel
+- opłatek
 
 ## Sery i nabiał 
 
