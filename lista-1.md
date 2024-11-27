@@ -9,7 +9,8 @@ Wpisz co kupić przed świętami. Pomiń prezenty.
 - granaty
 
 ## Mięso
-
+- schab
+- drób
 
 
 ## Pieczywo
