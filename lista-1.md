@@ -3,8 +3,8 @@
 Wpisz co kupić przed świętami. Pomiń prezenty.
 
 ## Owoce i warzywa
-
-
+- pomarańcze 
+- mandarynki
 
 ## Mięso
 - schab
