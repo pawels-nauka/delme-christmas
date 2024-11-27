@@ -23,6 +23,8 @@ Wpisz co kupić przed świętami. Pomiń prezenty.
 - piernik
 - pumpernikiel
 - opłatek
+- chleb tostowy
+- żymły (bułki)
 
 ## Sery i nabiał 
 
