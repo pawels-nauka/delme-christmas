@@ -9,3 +9,8 @@
 - prezenty dla babci
 - prezenty dla dziadka
 ## WIGILIKA
+- lista zakupów
+- zakupy
+- gotowanie
+- przygotowanie stołu
+  
